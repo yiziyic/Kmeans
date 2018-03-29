@@ -93,4 +93,4 @@ if __name__ == '__main__':
 
 ```
 执行结果：
-![]()
+![挂了吗](https://github.com/yiziyic/Kmeans/blob/master/aswecansee.jpg)
