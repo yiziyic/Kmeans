@@ -78,7 +78,6 @@ if __name__ == '__main__':
 
     #clf = KMeans(n_clusters=2)
     #clf.fit(x)
-	# 上面已把数据分成两组
     k_means = K_Means(k=2)#k表示分为几类
     k_means.fit(x)
 
